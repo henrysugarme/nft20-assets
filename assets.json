@@ -1055,5 +1055,15 @@
     "hide": false,
     "factory_version": 2,
     "removedFees": false
+  },
+    {
+    "name": "Z",
+    "symbol": "Z20",
+    "logo": "https://lh3.googleusercontent.com/EC5GoqwNFK4aBNvx4LXkP7jFWL_Mm_2OgI5iLqTIltO9Fa3AMxZGBGkIMcdVhqLNPQqGCPDqUWm8VQmSbcs8ye4=w128",
+    "color": "#ffffff",
+    "uniswap": "false",
+    "hide": false,
+    "factory_version": 2,
+    "removedFees": false
   }
 ]
